@@ -9,5 +9,6 @@ My languages:
 * Python
 * Java
 * (YAML, JSON, Dockerfile 🐳 etc.)
+* (Some Kubernetes 🛞 knowledge present)
 
 Thank you very many for visiting my profile and if you have a good offer for me, please let me know :)
