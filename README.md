@@ -11,4 +11,9 @@ My languages:
 * (YAML, JSON, Dockerfile 🐳 etc.)
 * (Some Kubernetes 🛞 knowledge present)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesLares&theme=synthwave" />
+<hr />
+<img src="https://github-readme-stats.vercel.app/api?username=JohannesLares&count_private=true&show_icons=trues&theme=synthwave" />
+
 Thank you very many for visiting my profile and if you have a good offer for me, please let me know :)
+
